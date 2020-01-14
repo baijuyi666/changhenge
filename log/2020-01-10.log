@@ -1,0 +1,100 @@
+2020-01-10 16:38:36.319 | DEBUG    | Common_method.read_config:<module>:13 - 生成conn对象
+2020-01-10 16:38:36.319 | DEBUG    | Common_method.read_config:<module>:13 - 生成conn对象
+2020-01-10 16:38:36.320 | DEBUG    | Common_method.read_config:ReadConfig:18 - 读取配置文件所在位置
+2020-01-10 16:38:36.320 | DEBUG    | Common_method.read_config:ReadConfig:18 - 读取配置文件所在位置
+2020-01-10 16:38:36.320 | INFO     | Common_method.read_config:ReadConfig:20 - 读取Mysql1中的所有键值对
+2020-01-10 16:38:36.320 | INFO     | Common_method.read_config:ReadConfig:20 - 读取Mysql1中的所有键值对
+2020-01-10 16:38:36.321 | INFO     | Common_method.read_config:ReadConfig:22 - 创建一个空字典
+2020-01-10 16:38:36.321 | INFO     | Common_method.read_config:ReadConfig:22 - 创建一个空字典
+2020-01-10 16:38:36.321 | INFO     | Common_method.read_config:ReadConfig:25 - 循环填充字典，生成字典{'host': 'db4free.net', 'port': '3306', 'user': 'wangyang', 'passwd': 'jiale8897', 'db': 'shoujiale', 'charset': 'utf8'}
+2020-01-10 16:38:36.321 | INFO     | Common_method.read_config:ReadConfig:25 - 循环填充字典，生成字典{'host': 'db4free.net', 'port': '3306', 'user': 'wangyang', 'passwd': 'jiale8897', 'db': 'shoujiale', 'charset': 'utf8'}
+2020-01-10 16:39:05.907 | DEBUG    | __main__:Connect:24 - 连接mysql数据库
+2020-01-10 16:39:05.907 | DEBUG    | __main__:Connect:24 - 连接mysql数据库
+2020-01-10 16:39:05.907 | DEBUG    | __main__:Connect:26 - 创建游标
+2020-01-10 16:39:05.907 | DEBUG    | __main__:Connect:26 - 创建游标
+2020-01-10 16:40:16.195 | DEBUG    | Common_method.read_config:<module>:13 - 生成conn对象
+2020-01-10 16:40:16.195 | DEBUG    | Common_method.read_config:<module>:13 - 生成conn对象
+2020-01-10 16:40:16.196 | DEBUG    | Common_method.read_config:ReadConfig:18 - 读取配置文件所在位置
+2020-01-10 16:40:16.196 | DEBUG    | Common_method.read_config:ReadConfig:18 - 读取配置文件所在位置
+2020-01-10 16:40:16.196 | INFO     | Common_method.read_config:ReadConfig:20 - 读取Mysql1中的所有键值对
+2020-01-10 16:40:16.196 | INFO     | Common_method.read_config:ReadConfig:20 - 读取Mysql1中的所有键值对
+2020-01-10 16:40:16.196 | INFO     | Common_method.read_config:ReadConfig:22 - 创建一个空字典
+2020-01-10 16:40:16.196 | INFO     | Common_method.read_config:ReadConfig:22 - 创建一个空字典
+2020-01-10 16:40:16.196 | INFO     | Common_method.read_config:ReadConfig:25 - 循环填充字典，生成字典{'host': 'db4free.net', 'port': '3306', 'user': 'wangyang', 'passwd': 'jiale8897', 'db': 'shoujiale', 'charset': 'utf8'}
+2020-01-10 16:40:16.196 | INFO     | Common_method.read_config:ReadConfig:25 - 循环填充字典，生成字典{'host': 'db4free.net', 'port': '3306', 'user': 'wangyang', 'passwd': 'jiale8897', 'db': 'shoujiale', 'charset': 'utf8'}
+2020-01-10 16:40:18.873 | DEBUG    | __main__:Connect:24 - 连接mysql数据库
+2020-01-10 16:40:18.873 | DEBUG    | __main__:Connect:24 - 连接mysql数据库
+2020-01-10 16:40:18.873 | DEBUG    | __main__:Connect:26 - 创建游标
+2020-01-10 16:40:18.873 | DEBUG    | __main__:Connect:26 - 创建游标
+2020-01-10 16:40:47.731 | DEBUG    | Common_method.read_config:<module>:13 - 生成conn对象
+2020-01-10 16:40:47.731 | DEBUG    | Common_method.read_config:<module>:13 - 生成conn对象
+2020-01-10 16:40:47.731 | DEBUG    | Common_method.read_config:ReadConfig:18 - 读取配置文件所在位置
+2020-01-10 16:40:47.731 | DEBUG    | Common_method.read_config:ReadConfig:18 - 读取配置文件所在位置
+2020-01-10 16:40:47.732 | INFO     | Common_method.read_config:ReadConfig:20 - 读取Mysql1中的所有键值对
+2020-01-10 16:40:47.732 | INFO     | Common_method.read_config:ReadConfig:20 - 读取Mysql1中的所有键值对
+2020-01-10 16:40:47.732 | INFO     | Common_method.read_config:ReadConfig:22 - 创建一个空字典
+2020-01-10 16:40:47.732 | INFO     | Common_method.read_config:ReadConfig:22 - 创建一个空字典
+2020-01-10 16:40:47.732 | INFO     | Common_method.read_config:ReadConfig:25 - 循环填充字典，生成字典{'host': 'db4free.net', 'port': '3306', 'user': 'wangyang', 'passwd': 'jiale8897', 'db': 'shoujiale', 'charset': 'utf8'}
+2020-01-10 16:40:47.732 | INFO     | Common_method.read_config:ReadConfig:25 - 循环填充字典，生成字典{'host': 'db4free.net', 'port': '3306', 'user': 'wangyang', 'passwd': 'jiale8897', 'db': 'shoujiale', 'charset': 'utf8'}
+2020-01-10 16:40:54.306 | DEBUG    | __main__:Connect:24 - 连接mysql数据库
+2020-01-10 16:40:54.306 | DEBUG    | __main__:Connect:24 - 连接mysql数据库
+2020-01-10 16:40:54.306 | DEBUG    | __main__:Connect:26 - 创建游标
+2020-01-10 16:40:54.306 | DEBUG    | __main__:Connect:26 - 创建游标
+2020-01-10 16:42:28.182 | DEBUG    | Common_method.read_config:<module>:13 - 生成conn对象
+2020-01-10 16:42:28.182 | DEBUG    | Common_method.read_config:<module>:13 - 生成conn对象
+2020-01-10 16:42:28.182 | DEBUG    | Common_method.read_config:ReadConfig:18 - 读取配置文件所在位置
+2020-01-10 16:42:28.182 | DEBUG    | Common_method.read_config:ReadConfig:18 - 读取配置文件所在位置
+2020-01-10 16:42:28.183 | INFO     | Common_method.read_config:ReadConfig:20 - 读取Mysql1中的所有键值对
+2020-01-10 16:42:28.183 | INFO     | Common_method.read_config:ReadConfig:20 - 读取Mysql1中的所有键值对
+2020-01-10 16:42:28.183 | INFO     | Common_method.read_config:ReadConfig:22 - 创建一个空字典
+2020-01-10 16:42:28.183 | INFO     | Common_method.read_config:ReadConfig:22 - 创建一个空字典
+2020-01-10 16:42:28.183 | INFO     | Common_method.read_config:ReadConfig:25 - 循环填充字典，生成字典{'host': 'db4free.net', 'port': '3306', 'user': 'wangyang', 'passwd': 'jiale8897', 'db': 'shoujiale', 'charset': 'utf8'}
+2020-01-10 16:42:28.183 | INFO     | Common_method.read_config:ReadConfig:25 - 循环填充字典，生成字典{'host': 'db4free.net', 'port': '3306', 'user': 'wangyang', 'passwd': 'jiale8897', 'db': 'shoujiale', 'charset': 'utf8'}
+2020-01-10 16:42:58.703 | DEBUG    | __main__:Connect:24 - 连接mysql数据库
+2020-01-10 16:42:58.703 | DEBUG    | __main__:Connect:24 - 连接mysql数据库
+2020-01-10 16:42:58.703 | DEBUG    | __main__:Connect:26 - 创建游标
+2020-01-10 16:42:58.703 | DEBUG    | __main__:Connect:26 - 创建游标
+2020-01-10 16:43:56.616 | DEBUG    | Common_method.read_config:<module>:13 - 生成conn对象
+2020-01-10 16:43:56.616 | DEBUG    | Common_method.read_config:<module>:13 - 生成conn对象
+2020-01-10 16:43:56.617 | DEBUG    | Common_method.read_config:ReadConfig:18 - 读取配置文件所在位置
+2020-01-10 16:43:56.617 | DEBUG    | Common_method.read_config:ReadConfig:18 - 读取配置文件所在位置
+2020-01-10 16:43:56.617 | INFO     | Common_method.read_config:ReadConfig:20 - 读取Mysql1中的所有键值对
+2020-01-10 16:43:56.617 | INFO     | Common_method.read_config:ReadConfig:20 - 读取Mysql1中的所有键值对
+2020-01-10 16:43:56.617 | INFO     | Common_method.read_config:ReadConfig:22 - 创建一个空字典
+2020-01-10 16:43:56.617 | INFO     | Common_method.read_config:ReadConfig:22 - 创建一个空字典
+2020-01-10 16:43:56.618 | INFO     | Common_method.read_config:ReadConfig:25 - 循环填充字典，生成字典{'host': 'db4free.net', 'port': '3306', 'user': 'wangyang', 'passwd': 'jiale8897', 'db': 'shoujiale', 'charset': 'utf8'}
+2020-01-10 16:43:56.618 | INFO     | Common_method.read_config:ReadConfig:25 - 循环填充字典，生成字典{'host': 'db4free.net', 'port': '3306', 'user': 'wangyang', 'passwd': 'jiale8897', 'db': 'shoujiale', 'charset': 'utf8'}
+2020-01-10 16:43:58.161 | DEBUG    | __main__:Connect:24 - 连接mysql数据库
+2020-01-10 16:43:58.161 | DEBUG    | __main__:Connect:24 - 连接mysql数据库
+2020-01-10 16:43:58.162 | DEBUG    | __main__:Connect:26 - 创建游标
+2020-01-10 16:43:58.162 | DEBUG    | __main__:Connect:26 - 创建游标
+2020-01-10 16:44:02.861 | INFO     | __main__:Connect:38 - 关闭数据库连接
+2020-01-10 16:44:02.861 | INFO     | __main__:Connect:38 - 关闭数据库连接
+2020-01-10 16:53:59.006 | DEBUG    | __main__:Connect:22 - 连接mysql数据库
+2020-01-10 16:53:59.006 | DEBUG    | __main__:Connect:24 - 创建游标
+2020-01-10 16:54:03.681 | INFO     | __main__:Connect:36 - 关闭数据库连接
+2020-01-10 16:54:49.416 | DEBUG    | __main__:Connect:22 - 连接mysql数据库
+2020-01-10 16:54:49.416 | DEBUG    | __main__:Connect:24 - 创建游标
+2020-01-10 16:54:54.154 | INFO     | __main__:Connect:36 - 关闭数据库连接
+2020-01-10 16:56:51.863 | DEBUG    | __main__:Connect:22 - 连接mysql数据库
+2020-01-10 16:56:51.864 | DEBUG    | __main__:Connect:24 - 创建游标
+2020-01-10 16:56:55.639 | INFO     | __main__:Connect:37 - 关闭数据库连接
+2020-01-10 16:57:34.982 | DEBUG    | __main__:Connect:22 - 连接mysql数据库
+2020-01-10 16:57:34.983 | DEBUG    | __main__:Connect:24 - 创建游标
+2020-01-10 16:57:38.753 | INFO     | __main__:Connect:37 - 关闭数据库连接
+2020-01-10 16:57:38.754 | DEBUG    | __main__:<module>:44 - 生成元组((1, '唐僧', 10, '男'), (2, '孙悟空', 5, '猴子'))
+2020-01-10 16:58:52.722 | DEBUG    | __main__:Connect:22 - 连接mysql数据库
+2020-01-10 16:58:52.723 | DEBUG    | __main__:Connect:24 - 创建游标
+2020-01-10 16:58:56.767 | INFO     | __main__:Connect:38 - 关闭数据库连接
+2020-01-10 16:59:40.333 | DEBUG    | __main__:Connect:22 - 连接mysql数据库
+2020-01-10 16:59:40.334 | DEBUG    | __main__:Connect:24 - 创建游标
+2020-01-10 16:59:44.526 | ERROR    | __main__:Connect:35 - 有异常出现，请检查sql语句
+2020-01-10 16:59:44.923 | INFO     | __main__:Connect:39 - 关闭数据库连接
+2020-01-10 17:00:26.541 | DEBUG    | __main__:Connect:22 - 连接mysql数据库
+2020-01-10 17:00:26.541 | DEBUG    | __main__:Connect:24 - 创建游标
+2020-01-10 17:00:30.467 | DEBUG    | __main__:Connect:30 - 生成元组((1, '唐僧', 10, '男'), (2, '孙悟空', 5, '猴子'))
+2020-01-10 17:00:30.467 | INFO     | __main__:Connect:39 - 关闭数据库连接
+2020-01-10 17:01:46.187 | DEBUG    | __main__:Connect:22 - 连接mysql数据库
+2020-01-10 17:01:46.187 | DEBUG    | __main__:Connect:24 - 创建游标
+2020-01-10 17:01:55.267 | DEBUG    | __main__:Connect:30 - 生成元组((1, '唐僧', 10, '男'), (2, '孙悟空', 5, '猴子'))
+2020-01-10 17:01:55.267 | INFO     | __main__:Connect:37 - 关闭数据库连接
